@@ -1,0 +1,8 @@
+D:\PFC\Código\RecognizingUMLSketchDiagrams\RecognizingUMLSketchDiagrams\bin\Debug\RecognizingUMLSketchDiagrams.exe
+D:\PFC\Código\RecognizingUMLSketchDiagrams\RecognizingUMLSketchDiagrams\bin\Debug\RecognizingUMLSketchDiagrams.pdb
+D:\PFC\Código\RecognizingUMLSketchDiagrams\RecognizingUMLSketchDiagrams\obj\Debug\ResolveAssemblyReference.cache
+D:\PFC\Código\RecognizingUMLSketchDiagrams\RecognizingUMLSketchDiagrams\obj\Debug\RecognizingUMLSketchDiagrams.FormManager.resources
+D:\PFC\Código\RecognizingUMLSketchDiagrams\RecognizingUMLSketchDiagrams\obj\Debug\RecognizingUMLSketchDiagrams.Properties.Resources.resources
+D:\PFC\Código\RecognizingUMLSketchDiagrams\RecognizingUMLSketchDiagrams\obj\Debug\RecognizingUMLSketchDiagrams.csproj.GenerateResource.Cache
+D:\PFC\Código\RecognizingUMLSketchDiagrams\RecognizingUMLSketchDiagrams\obj\Debug\RecognizingUMLSketchDiagrams.exe
+D:\PFC\Código\RecognizingUMLSketchDiagrams\RecognizingUMLSketchDiagrams\obj\Debug\RecognizingUMLSketchDiagrams.pdb
